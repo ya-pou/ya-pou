@@ -63,16 +63,17 @@ Projet simple démonstratif pour varier ma stack front.
 
 ## 📊 Stats GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ya-pou&show_icons=true&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ya-pou&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ya-pou&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ya-pou&theme=aura_dark)
 
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-pou&layout=compact&theme=transparent)
 
 ---
 
 ## 📬 Me contacter
 
-- LinkedIn : *(https://www.linkedin.com/in/alexis-haag-a65772178/)*  
-- Email : *(alexis.h@webmate-services.com)*  
+- LinkedIn : *https://www.linkedin.com/in/alexis-haag-a65772178/*  
+- Email : *alexis.h@webmate-services.com*  
 
 **Ouvert aux missions Freelance (ESN / PME / SaaS)**  
 et aux projets d’applications métier.
