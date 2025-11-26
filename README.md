@@ -46,18 +46,19 @@ Refonte d’intranet : UI/UX, ajout de fonctionnalités, optimisation du code.
 
 ---
 
-## 📂 Sides projects
+## 📂 Projets
 
 ### 🔹 Light CRM — API (NestJS)
 API modulaire : auth JWT, rôles, permissions CASL, gestion utilisateurs/clients/opportunités.  
 👉 https://github.com/ya-pou/api-light-crm
 
 ### 🔹 Light CRM — Frontend (Angular)
-Dashboard, gestion client/opportunité, login + JWT, services Angular, UI métier.  
+Dashboard, gestion client/opportunité, login + JWT, services Angular, UI métier.
+👉 https://github.com/ya-pou/frontend-light-crm
 
 ### 🔹 Site vitrine de mon entreprise (React)
 Projet simple démonstratif pour varier ma stack front.
-- https://github.com/ya-pou/wms_website
+👉 https://github.com/ya-pou/wms_website
 
 ---
 
